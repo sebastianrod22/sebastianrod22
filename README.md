@@ -18,6 +18,7 @@ Soy un estudiante de Ingeniería de sistemas, interesado en la programación y e
 
 ## Proyectos
 **Sistema Crud**: Aplicacion CRUD que simula la inscripción de materias en una universidad, conectado a una base de datos SQLLite.
+
 **Convertidor DNF**: Aplicación que convierte una ecuación logica bien formada en forma de string y la transforma a su equivalente en forma normal disyuntiva DNF.
 
 ## Herramientas
